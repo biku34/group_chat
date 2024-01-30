@@ -1,5 +1,5 @@
 # group_chat
-A Java Based Chat App
+A Java Based Chat App \n
 This Chat App based on Java uses 
     -Socket Programming for server-client network
     -Java Swing for the GUI
